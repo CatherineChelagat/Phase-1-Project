@@ -46,15 +46,13 @@ The data analysis process involved using data visualization to better understand
 
 ## Data Visualization
 
-<img src="/Phase-1-Project/to/AverageRating.png" alt="Alt text" title="AverageRating of Different Movie Genres">
-
+https://user-images.githubusercontent.com/117116961/202844055-8f4a0ac8-92e7-4d0e-83b6-41676fb46a53.png
 >According to the graph, the differences in the average rating for the different movie genres is not very high. However, Horror and Thriller category are the lowest rated followed by History and a combination of comedy and drama. A combination of Adventure, Animation and Comedy yields the highest average rating. The documentary category also yields a high average rating.
 
-<img src="/Phase-1-Project/to/Runtime.png" alt="Alt text" title="Average Rating of Movies with Respect to Runtime">
-
+https://user-images.githubusercontent.com/117116961/202844065-e78add54-5037-4648-97f8-5e4b6632b2cb.png
 >Following the above outcome, the better performing movies according to the ratings and runtime belong to the Adventure, Animation and Comedy combination. It is followed closely by the documentary category in terms of average rating, with a low runtime.
 
-<img src="/Phase-1-Project/to/DomesticForeign.png" alt="Alt text" title="Relationship Between Domestic, Foreign Gross and Movie Title">
+https://user-images.githubusercontent.com/117116961/202844035-fe31eee1-5350-4e00-a246-975298230790.png
 
 >Toy Story 3 has the lowest foreign gross income but highest domestic income, while Shrek Forever After has the lowest domestic income but the highest foreign income. Therefore, as Microsoft looks into movies to emulate, they should pay attention to whether they are looking to satisfy the foreign or domestic market. This will address the question on which option will earn them the most income.
 
